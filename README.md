@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/RmxfDvl.png"/>
 </p>
 
 <h1>Active Directory Infrastructure </h1>
