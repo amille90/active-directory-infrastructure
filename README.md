@@ -1,15 +1,9 @@
-# active-directory-infrastructure
-
-
-
-
-
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Active Directory Infrastructure </h1>
+This tutorial goes over the setting up of a Domain Controller and Client-1 Virtual Machines in Azure, connectivity testing and then both will be signed on to via Remote Desktop as part 1 to the overall Active Directory project.<br />
 
 
 <h2>Video Demonstration</h2>
