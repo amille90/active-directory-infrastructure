@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/RmxfDvl.png"/>
+<img src="https://i.imgur.com/N7VUCbt.png"/>
 </p>
 
 <h1>Active Directory Infrastructure </h1>
